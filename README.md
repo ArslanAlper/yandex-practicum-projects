@@ -1,4 +1,5 @@
 # yandex-practicum-projects
+
 In this repository, I shared my jupyter notebook projects which I made while I was learning data science area at the Data Scientist Professional Training Course provided by Practicum by Yandex.
 
 <table>
@@ -10,7 +11,7 @@ In this repository, I shared my jupyter notebook projects which I made while I w
   
   <tr>
     <td>Analysis of Borrowers' Defaulting Risk</td>
-    <td>Finding out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness. The report is for building a credit score used to evaluate the ability of a potential borrower to repay their loan.</td>
+    <td>Finding out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness. The aim of this report is to make an analysis for building a credit score used to evaluate the ability of a potential borrower to repay their loan.</td>
     <td>pandas</td>    
   </tr>
   
