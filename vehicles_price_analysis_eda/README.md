@@ -1,0 +1,1 @@
+In this project, I made a detailed analysis to determine which factors influence the price of a vehicle. We studied data collected over the last few years.
