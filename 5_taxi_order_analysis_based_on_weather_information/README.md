@@ -28,4 +28,5 @@ A database with info on taxi rides in Chicago:
 
 ## Table scheme
 
-![table scheme](https://user-images.githubusercontent.com/61430166/215336563-6cf409c4-4800-4502-b7da-504b9b30a8df.png)
+![table scheme](https://user-images.githubusercontent.com/61430166/215336622-00a7c981-1775-45ab-b46d-5820c9d441a2.png)
+
