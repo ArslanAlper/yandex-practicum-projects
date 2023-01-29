@@ -27,13 +27,13 @@ In this repository, I have shared my jupyter notebook projects which I made whil
     <td><i>pandas, numpy, matplotlib.pyplot, scipy</i></td>    
   </tr>
   
-  <tr>
+  <tr><b>Game Platforms Analysis</b></td>
     <td></td>
     <td></td>
     <td></td>    
   </tr>
   
-  <tr>
+  <tr><b>Taxi Order Analysis Based On Wather Information</b></td>
     <td></td>
     <td></td>
     <td></td>    
