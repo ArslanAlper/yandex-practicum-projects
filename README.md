@@ -41,7 +41,7 @@ It will be studied a database, analyzed data from competitors, and tested a hypo
   </tr>
   
   <tr>
-    <td><b>Customer Behavior Analysis and Plan Recommendation for a Telecom Operator with Machine Learning Classification</b></td>
+    <td><b>Customer Behavior Analysis and Plan Recommendation using Machine Learning Classification for a Telecom Operator</b></td>
     <td>For this classification task, we need to develop a model that will pick the right plan. Since we’ve already performed the data preprocessing step, we were able to move straight to creating the model. The aim is with this project to develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75.</td>
     <td><i>scikit learn, pandas, numpy, matplotlib.pyplot</i></td>    
   </tr>
