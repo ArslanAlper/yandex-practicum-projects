@@ -47,9 +47,10 @@ It will be studied a database, analyzed data from competitors, and tested a hypo
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>    
+    <td><b>Prediction using Supervised Learning whether a customer will leave the bank soon</b></td>
+    <td>We needed to predict whether a customer will leave the bank soon. We have the data on clients’ past behavior and termination of contracts with the bank.
+We builded a model with the maximum possible F1 score. We needed an F1 score of at least 0.59 to pass the project requirements. Additionally, we measured the AUC-ROC metric and compared it with the F1.</td>
+    <td><i>sklearn, pandas, numpy, matplotlib.pyplot</i></td>    
   </tr>
   
   <tr>
