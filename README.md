@@ -24,19 +24,20 @@ In this repository, I have shared my jupyter notebook projects which I made whil
   <tr>
     <td><b>Telecom Plan Analysis</b></td>
     <td>The telecom company offers its clients two prepaid plans. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. It was carried out that a preliminary analysis of the plans based on a relatively small client selection. This project is to analyze clients' behavior and determine which prepaid plan brings in more revenue.</td>
-    <td><i>pandas, numpy, matplotlib.pyplot, scipy</i></td>    
+    <td><i>pandas, numpy, matplotlib.pyplot, scipy.stats</i></td>    
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>    
+    <td><b>Game Platforms Analysis</b></td>
+    <td>Based on the historical data on game sales, it has been identified patterns that determine whether a game succeeds or not in order to spot potential big winners and plan advertising campaigns.</td>
+    <td><i>pandas, numpy, seaborn, matplotlib.pyplot, scipy.stats</i></td>    
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>    
+    <td><b>Taxi Order Analysis Based On Wather Information</b></td>
+    <td>The task is to find patterns in the available information, to understand passenger preferences and the impact of external factors on rides.
+It will be studied a database, analyzed data from competitors, and tested a hypothesis about the impact of weather on ride frequency.</td>
+    <td><i>SQL, pandas, seaborn, matplotlib.pylot, scipy.stats</i></td>    
   </tr>
   
   <tr>
