@@ -60,9 +60,9 @@ We have builded a model with the maximum possible F1 score. We needed an F1 scor
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>    
+    <td><b>Preparing a prototype of a machine learning model to predict the amount of gold recovered from gold ore</b></td>
+    <td>We have the data on extraction and purification. The model have helped to optimize the production and eliminated unprofitable parameters. We have analyzed the ore purification process.</td>
+    <td><i>sklearn, pandas, numpy, matplotlib.pyplot, seaborn</i></td>    
   </tr>
   
   <tr>
