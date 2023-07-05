@@ -54,9 +54,9 @@ We have builded a model with the maximum possible F1 score. We needed an F1 scor
   </tr>
   
   <tr>
-    <td><b>Finding the best best place for a new oil well</b></td>
+    <td><b>Finding the best place for a new oil well</b></td>
     <td>We have data on oil samples from three regions. Parameters of each oil well in the region are already known. We have builded a model that will help to pick the region with the highest profit margin. We have analyzde potential profit and risks using the Bootstrapping technique.</td>
-    <td><i>sklearn, scipy.stats, pandas, numpy, matplotlib.pyplot, seaborn<</i>></td>
+    <td><i>sklearn, scipy.stats, pandas, numpy, matplotlib.pyplot, seaborn</i></td>
   </tr>
   
   <tr>
