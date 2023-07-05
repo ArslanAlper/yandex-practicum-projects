@@ -49,14 +49,14 @@ It will be studied a database, analyzed data from competitors, and tested a hypo
   <tr>
     <td><b>Prediction using Supervised Learning whether a customer will leave the bank soon</b></td>
     <td>We needed to predict whether a customer will leave the bank soon. We have the data on clients’ past behavior and termination of contracts with the bank.
-We builded a model with the maximum possible F1 score. We needed an F1 score of at least 0.59 to pass the project requirements. Additionally, we measured the AUC-ROC metric and compared it with the F1.</td>
+We have builded a model with the maximum possible F1 score. We needed an F1 score of at least 0.59 to pass the project requirements. Additionally, we have measured the AUC-ROC metric and compared it with the F1.</td>
     <td><i>sklearn, pandas, numpy, matplotlib.pyplot</i></td>    
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>    
+    <td><b>Finding the best best place for a new oil well.</b></td>
+    <td>We have data on oil samples from three regions. Parameters of each oil well in the region are already known. We have builded a model that will help to pick the region with the highest profit margin. We have analyzde potential profit and risks using the Bootstrapping technique.</td>
+    <td>sklearn, scipy.stats, pandas, numpy, matplotlib.pyplot, seaborn</td>
   </tr>
   
   <tr>
