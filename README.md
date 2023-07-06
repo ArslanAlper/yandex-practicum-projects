@@ -66,9 +66,9 @@ We have builded a model with the maximum possible F1 score. We needed an F1 scor
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>    
+    <td><b>Finding customers who are similar to a given customer, Predicting whether a new customer is likely to receive an insurance benefit, Predicting the number of insurance benefits a new customer is likely to receive using a linear regression model, Protecting clients' personal data without breaking the model from the previous task</b></td>
+    <td>We have used Linear Algebra concepts for this project. Linear Algebra is the mathematical foundation for many Machine Learning algorithms. To test what we've learned, we have worked on this project that demonstrates a practical application of linear algebra combined with its mathematical beauty.</td>
+    <td><i>numpy, pandas, matplotlib.pyplot, seaborn, math, sklearn</i></td>    
   </tr>
   
   <tr>
